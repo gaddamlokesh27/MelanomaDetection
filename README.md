@@ -1,7 +1,7 @@
 # Project Name
 > * Assignment : Melonoma cancer detection assignment
 > * Team Member :  Lokesh Gaddam
-> * Date : 9April2024
+> * Date : 18Sep2024
  
  
 ## Table of Contents
